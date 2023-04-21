@@ -1,0 +1,16 @@
+body {
+    margin: 40vh 45vw;
+}
+
+#like {
+    text-decoration: none;
+    color: rgb(221, 57, 85);
+    font-size: 2em;
+    vertical-align: middle;
+}
+
+#counter {
+    border: 1px solid #CCC;
+    border-radius: 10%;
+    padding: 0.5em 1em;
+}
