@@ -1,0 +1,15 @@
+body {
+    transition: background-color 3s;
+}
+
+.color-error {
+    background-color: #FEE;
+}
+
+.color-notice {
+    background-color: #FFE;
+}
+
+.color-success {
+    background-color: #EFE;
+}
